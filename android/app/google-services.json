@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "941280513808",
+    "firebase_url": "https://uwent-770f4.firebaseio.com",
+    "project_id": "uwent-770f4",
+    "storage_bucket": "uwent-770f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941280513808:android:53b7232be23e30279c9f95",
+        "android_client_info": {
+          "package_name": "com.agnostic.uwent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941280513808-bc1uggnc6dqhu7337f2129f3qnncj3c3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agnostic.uwent",
+            "certificate_hash": "2638916452eef547aa8207dae71dcaeaeb0cc0f2"
+          }
+        },
+        {
+          "client_id": "941280513808-4c26ke49k4a94bc87m4rpbt5kaop4o50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUMj4PnbBzjZHdd2cyBvojAsCS-8fmF_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941280513808-4c26ke49k4a94bc87m4rpbt5kaop4o50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
