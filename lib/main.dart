@@ -184,7 +184,8 @@ class _FrontPageState extends State<FrontPage> {
               child: GestureDetector(
                 onTap: () {
                   setState(() {
-                    _pageState = 0;
+                    Navigator.of(context).push(
+                        MaterialPageRoute(builder: (context) => genPage()));
                   });
                 },
                 child: Container(
